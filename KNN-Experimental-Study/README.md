@@ -193,4 +193,4 @@ knn-from-scratch-experimental-study/
 ├── requirements.txt
 ├── KNN_Experimental_Study.ipynb
 └── data/
-    └── breast_cancer.xls
+    └── breast_cancer.csv
